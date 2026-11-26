@@ -1,0 +1,12 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\ASUS\\PythonEnv\\pyenv1\\Scripts\\python.exe",
+    "python.terminal.activateEnvironment": true,
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "terminal.integrated.defaultProfile.windows": "CommandPrompt",
+    "terminal.integrated.profiles.windows": {
+        "Command Prompt": {
+            "path": "C:\\Windows\\System32\\cmd.exe",
+            "args": ["/K", "C:\\Users\\ASUS\\PythonEnv\\pyenv1\\Scripts\\activate.bat"]
+        }
+    }
+}
